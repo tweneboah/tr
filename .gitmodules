@@ -1,0 +1,4 @@
+[submodule "tr"]
+	path = tr
+	url = https://github.com/tweneboah/tr
+	branch = master
